@@ -75,4 +75,4 @@ For problems or questions, please [generate an issue](https://github.com/derik-d
 Also feel free to contact me on [Discord](https://discord.gg/w8znaPQJYf).
 
 ## License
-GM File Association by Derik.NET is marked with CC0 1.0 Universal. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
+GM File Association by Derik.Digital is marked with CC0 1.0 Universal. To view a copy of this license, visit https://creativecommons.org/publicdomain/zero/1.0/
